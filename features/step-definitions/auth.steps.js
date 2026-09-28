@@ -10,7 +10,7 @@ Given('I am on the login page', async function () {
   try {
     loginPage = new LoginPage(this.page);
     await loginPage.navigateToLoginPage();
-    logger.info('Navigated to login page');
+    logger.info('Navigated to login page successfully');
   } catch (error) {
     logger.error(`Failed to navigate to login page: ${error.message}`);
     throw error;
