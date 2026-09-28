@@ -1,0 +1,105 @@
+{"level":"info","message":"Launching browser...","service":"cucumber-framework","timestamp":"2026-09-25 17:28:42"}
+{"level":"info","message":"Browser launched successfully","service":"cucumber-framework","timestamp":"2026-09-25 17:28:46"}
+{"level":"info","message":"Starting scenario: Successful login with valid credentials","service":"cucumber-framework","timestamp":"2026-09-25 17:28:50"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:28:50"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:28:50"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:28:50"}
+{"level":"error","message":"Scenario failed: Successful login with valid credentials","service":"cucumber-framework","timestamp":"2026-09-25 17:28:50"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Successful_login_with_valid_credentials_2026-09-25T11-58-50-713Z.png","service":"cucumber-framework","timestamp":"2026-09-25 17:28:51"}
+{"level":"info","message":"Starting scenario: Failed login with invalid credentials","service":"cucumber-framework","timestamp":"2026-09-25 17:28:52"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:28:52"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:28:52"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:28:52"}
+{"level":"error","message":"Scenario failed: Failed login with invalid credentials","service":"cucumber-framework","timestamp":"2026-09-25 17:28:52"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Failed_login_with_invalid_credentials_2026-09-25T11-58-52-528Z.png","service":"cucumber-framework","timestamp":"2026-09-25 17:28:53"}
+{"level":"info","message":"Starting scenario: Login with random user data using Faker","service":"cucumber-framework","timestamp":"2026-09-25 17:28:54"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:28:54"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:28:54"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:28:54"}
+{"level":"error","message":"Scenario failed: Login with random user data using Faker","service":"cucumber-framework","timestamp":"2026-09-25 17:28:54"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Login_with_random_user_data_using_Faker_2026-09-25T11-58-54-547Z.png","service":"cucumber-framework","timestamp":"2026-09-25 17:28:54"}
+{"level":"info","message":"Browser closed successfully","service":"cucumber-framework","timestamp":"2026-09-25 17:28:56"}
+{"level":"info","message":"Launching browser...","service":"cucumber-framework","timestamp":"2026-09-25 17:43:06"}
+{"level":"info","message":"Browser launched successfully","service":"cucumber-framework","timestamp":"2026-09-25 17:43:09"}
+{"level":"info","message":"Starting scenario: Successful login with valid credentials","service":"cucumber-framework","timestamp":"2026-09-25 17:43:10"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:43:10"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:43:10"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:43:10"}
+{"level":"error","message":"Scenario failed: Successful login with valid credentials","service":"cucumber-framework","timestamp":"2026-09-25 17:43:10"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Successful_login_with_valid_credentials_2026-09-25T12-13-10-255Z.png","service":"cucumber-framework","timestamp":"2026-09-25 17:43:10"}
+{"level":"info","message":"Starting scenario: Failed login with invalid credentials","service":"cucumber-framework","timestamp":"2026-09-25 17:43:11"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:43:11"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:43:11"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:43:11"}
+{"level":"error","message":"Scenario failed: Failed login with invalid credentials","service":"cucumber-framework","timestamp":"2026-09-25 17:43:11"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Failed_login_with_invalid_credentials_2026-09-25T12-13-11-246Z.png","service":"cucumber-framework","timestamp":"2026-09-25 17:43:11"}
+{"level":"info","message":"Starting scenario: Login with random user data using Faker","service":"cucumber-framework","timestamp":"2026-09-25 17:43:12"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:43:12"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:43:12"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-25 17:43:12"}
+{"level":"error","message":"Scenario failed: Login with random user data using Faker","service":"cucumber-framework","timestamp":"2026-09-25 17:43:12"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Login_with_random_user_data_using_Faker_2026-09-25T12-13-12-273Z.png","service":"cucumber-framework","timestamp":"2026-09-25 17:43:12"}
+{"level":"info","message":"Browser closed successfully","service":"cucumber-framework","timestamp":"2026-09-25 17:43:13"}
+{"level":"info","message":"Launching browser...","service":"cucumber-framework","timestamp":"2026-09-28 11:09:22"}
+{"level":"info","message":"Browser launched successfully","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"info","message":"Starting scenario: Successful login with valid credentials","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"error","message":"Scenario failed: Successful login with valid credentials","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Successful_login_with_valid_credentials_2026-09-28T05-39-23-603Z.png","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"info","message":"Starting scenario: Failed login with invalid credentials","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"error","message":"Scenario failed: Failed login with invalid credentials","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Failed_login_with_invalid_credentials_2026-09-28T05-39-23-901Z.png","service":"cucumber-framework","timestamp":"2026-09-28 11:09:23"}
+{"level":"info","message":"Starting scenario: Login with random user data using Faker","service":"cucumber-framework","timestamp":"2026-09-28 11:09:24"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:09:24"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:09:24"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:09:24"}
+{"level":"error","message":"Scenario failed: Login with random user data using Faker","service":"cucumber-framework","timestamp":"2026-09-28 11:09:24"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Login_with_random_user_data_using_Faker_2026-09-28T05-39-24-176Z.png","service":"cucumber-framework","timestamp":"2026-09-28 11:09:24"}
+{"level":"info","message":"Browser closed successfully","service":"cucumber-framework","timestamp":"2026-09-28 11:09:24"}
+{"level":"info","message":"Launching browser...","service":"cucumber-framework","timestamp":"2026-09-28 11:17:18"}
+{"level":"info","message":"Browser launched successfully","service":"cucumber-framework","timestamp":"2026-09-28 11:17:18"}
+{"level":"info","message":"Starting scenario: Successful login with valid credentials","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"error","message":"Scenario failed: Successful login with valid credentials","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Successful_login_with_valid_credentials_2026-09-28T05-47-19-369Z.png","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"info","message":"Starting scenario: Failed login with invalid credentials","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"error","message":"Scenario failed: Failed login with invalid credentials","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Failed_login_with_invalid_credentials_2026-09-28T05-47-19-618Z.png","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"info","message":"Starting scenario: Login with random user data using Faker","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"error","message":"Scenario failed: Login with random user data using Faker","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Login_with_random_user_data_using_Faker_2026-09-28T05-47-19-880Z.png","service":"cucumber-framework","timestamp":"2026-09-28 11:17:19"}
+{"level":"info","message":"Browser closed successfully","service":"cucumber-framework","timestamp":"2026-09-28 11:17:20"}
+{"level":"info","message":"Launching browser...","service":"cucumber-framework","timestamp":"2026-09-28 11:20:08"}
+{"level":"info","message":"Browser launched successfully","service":"cucumber-framework","timestamp":"2026-09-28 11:20:08"}
+{"level":"info","message":"Starting scenario: Successful login with valid credentials","service":"cucumber-framework","timestamp":"2026-09-28 11:20:08"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:20:08"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:20:08"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:20:08"}
+{"level":"error","message":"Scenario failed: Successful login with valid credentials","service":"cucumber-framework","timestamp":"2026-09-28 11:20:08"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Successful_login_with_valid_credentials_2026-09-28T05-50-08-955Z.png","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"info","message":"Starting scenario: Failed login with invalid credentials","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"error","message":"Scenario failed: Failed login with invalid credentials","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Failed_login_with_invalid_credentials_2026-09-28T05-50-09-240Z.png","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"info","message":"Starting scenario: Login with random user data using Faker","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"error","message":"Failed to navigate to undefined: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"error","message":"Failed to navigate to login page: page.goto: url: expected string, got undefined","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"error","message":"Scenario failed: Login with random user data using Faker","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Login_with_random_user_data_using_Faker_2026-09-28T05-50-09-511Z.png","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}
+{"level":"info","message":"Browser closed successfully","service":"cucumber-framework","timestamp":"2026-09-28 11:20:09"}

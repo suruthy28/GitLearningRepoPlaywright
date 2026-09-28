@@ -1,0 +1,29 @@
+{
+  "name": "cucumber-pom-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js",
+    "test:qa": "cross-env NODE_ENV=qa cucumber-js",
+    "test:dev": "cross-env NODE_ENV=dev cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@cucumber/cucumber": "^13.2.1",
+    "@playwright/test": "^1.63.0",
+    "cross-env": "^10.1.0",
+    "dotenv": "^18.0.3",
+    "faker": "^5.5.3",
+    "playwright": "^1.63.0",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "allure": "^3.18.0",
+    "allure-cucumberjs": "^3.12.2",
+    "allure-playwright": "^3.12.2"
+  }
+}
