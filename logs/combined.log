@@ -292,3 +292,18 @@
 {"level":"info","message":"Entered valid credentials","service":"cucumber-framework","timestamp":"2026-09-29 18:17:41"}
 {"level":"info","message":"Screenshot saved: ./screenshots/failed_Successful_login_with_valid_credentials_2026-09-29T12-47-41-005Z.png","service":"cucumber-framework","timestamp":"2026-09-29 18:17:41"}
 {"level":"info","message":"Browser closed successfully","service":"cucumber-framework","timestamp":"2026-09-29 18:17:43"}
+{"level":"info","message":"Launching browser...","service":"cucumber-framework","timestamp":"2026-09-29 19:45:20"}
+{"level":"info","message":"Browser launched successfully","service":"cucumber-framework","timestamp":"2026-09-29 19:45:20"}
+{"level":"info","message":"Starting scenario: Successful login with valid credentials","service":"cucumber-framework","timestamp":"2026-09-29 19:45:21"}
+{"level":"info","message":"Navigated to: undefined","service":"cucumber-framework","timestamp":"2026-09-29 19:45:21"}
+{"level":"info","message":"Navigated to login page","service":"cucumber-framework","timestamp":"2026-09-29 19:45:21"}
+{"level":"info","message":"Navigated to login page successfully","service":"cucumber-framework","timestamp":"2026-09-29 19:45:21"}
+{"level":"info","message":"Filled [type=\"email\"] with: suruthy28.5f34ee483ea1@agentforce.com","service":"cucumber-framework","timestamp":"2026-09-29 19:45:22"}
+{"level":"info","message":"Clicked on element: #Login","service":"cucumber-framework","timestamp":"2026-09-29 19:45:23"}
+{"level":"info","message":"Filled [name=\"pw\"] with: Rohi@100622","service":"cucumber-framework","timestamp":"2026-09-29 19:45:24"}
+{"level":"error","message":"Scenario failed: Successful login with valid credentials","service":"cucumber-framework","timestamp":"2026-09-29 19:45:26"}
+{"level":"info","message":"Clicked on element: //input[@id=\"Login\"]","service":"cucumber-framework","timestamp":"2026-09-29 19:45:28"}
+{"level":"info","message":"Logged in with username: suruthy28.5f34ee483ea1@agentforce.com","service":"cucumber-framework","timestamp":"2026-09-29 19:45:28"}
+{"level":"info","message":"Entered valid credentials","service":"cucumber-framework","timestamp":"2026-09-29 19:45:28"}
+{"level":"info","message":"Screenshot saved: ./screenshots/failed_Successful_login_with_valid_credentials_2026-09-29T14-15-26-963Z.png","service":"cucumber-framework","timestamp":"2026-09-29 19:45:28"}
+{"level":"info","message":"Browser closed successfully","service":"cucumber-framework","timestamp":"2026-09-29 19:45:29"}

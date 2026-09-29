@@ -33,7 +33,7 @@ class LoginPage extends BasePage {
     try {
       return await this.getText(Locators.loginPage.errorMessage);
     } catch (error) {
-      logger.error(`Failed to get error message: ${error.message}`);
+      logger.error(`Failed to get error messages: ${error.message}`);
       throw error;
     }
   }
