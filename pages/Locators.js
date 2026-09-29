@@ -4,7 +4,7 @@ class Locators {
     usernameInput: '[type="email"]',
     login:'#Login',
     passwordInput: '[name="pw"]',
-    loginButton: 'form>input',
+    loginButton: '//input[@id="Login"]',
     errorMessage: '.error-message',
     successMessage: '.success-message',
     forgotPasswordLink: 'a[href="/forgot-password"]',

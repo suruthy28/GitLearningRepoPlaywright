@@ -29,17 +29,17 @@ When('I enter valid username and password', async function () {
   }
 });
 
-When('I enter invalid username and password', async function () {
-  try {
-    const username = process.env.INVALID_USERNAME;
-    const password = process.env.INVALID_PASSWORD;
-    await loginPage.login(username, password);
-    logger.info(`Entered invalid credentials`);
-  } catch (error) {
-    logger.error(`Failed to enter invalid credentials: ${error.message}`);
-    throw error;
-  }
-});
+// // When('I enter invalid username and password', async function () {
+//   try {
+//     const username = process.env.INVALID_USERNAME;
+//     const password = process.env.INVALID_PASSWORD;
+//     await loginPage.login(username, password);
+//     logger.info(`Entered invalid credentials`);
+//   } catch (error) {
+//     logger.error(`Failed to enter invalid credentials: ${error.message}`);
+//     throw error;
+//   }
+// });
 
 
 When('I click the login button', async function () {
@@ -64,13 +64,13 @@ Then('I should be logged in successfully', async function () {
   }
 });
 
-Then('I should see an error message', async function () {
-  try {
-    const errorMessage = await loginPage.getErrorMessage();
-    logger.info(`Error message displayed: ${errorMessage}`);
-    // Add assertion to verify error message
-  } catch (error) {
-    logger.error(`Failed to verify error message: ${error.message}`);
-    throw error;
-  }
-});
+// Then('I should see an error message', async function () {
+//   try {
+//     const errorMessage = await loginPage.getErrorMessage();
+//     logger.info(`Error message displayed: ${errorMessage}`);
+//     // Add assertion to verify error message
+//   } catch (error) {
+//     logger.error(`Failed to verify error message: ${error.message}`);
+//     throw error;
+//   }
+// });

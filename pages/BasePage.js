@@ -12,7 +12,7 @@ class BasePage {
    */
   async navigate(url) {
     try {
-      await this.page.goto(url);
+      await this.page.goto(process.env.BASE_URL);
       logger.info(`Navigated to: ${url}`);
     } catch (error) {
       logger.error(`Failed to navigate to ${url}: ${error.message}`);
